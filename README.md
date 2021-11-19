@@ -150,7 +150,7 @@ Results: Sharpe Ratio change
 * Moderate +.55
 * Agressive +.87 (1)
 
-Note: unexpected result that the sharpe ratio of an agressive digital belended portfolio produced a higher Sharpe Ratio)
+(Note: unexpected result that the sharpe ratio of an agressive digital belended portfolio produced a higher Sharpe Ratio)
 
 Conclusion:
 After combining the digital assets with traditional investment porfolios we found that digital assets raised the average yearly returns as expected. The results of a 1 year forward looking Monte Carlo simulation confimed these results. Based on the volitility metrics, the digital assets increased risk and volitlity substantially for conservative and moderate investors. Therefore, the firm should target an agressive investor, with a high risk tolerance, with a higher beta traditonal portfolio combined with a higher allocation (10%) digital assets. Based on the Greater Philadelphia Market household income data our firm will be tageting indiviuals in the citys of Philadelphia, West Chester, Ardmore, and Wayne as they have the largest average hosuehold incomes. Assumption being that households with higher incomes have higher savings. Therefore these households will have a higher risk tolorence.
