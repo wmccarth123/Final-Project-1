@@ -5,23 +5,24 @@
 ## Introduction
 ### Our Task 
 
-We are a new new Business group at a PA Asset Management firm tasked with leading the firms integration of Digital Assets with traditional investment porfolios. The firm is interested in exploring how two digital assets, Bitcoin & Eethereum, into its traditional investment stragegy for Conservative, Moderate, & Agressive pofilios. Our task is to recommend which & how much Digital Asset should be paied with each traditional porfolio risk profile. Susecuently, based on Market Data in the state recommend Markets to which these porfolios can be targeted too. 
+We are a new new business group at a Pennsylvania Asset Management firm tasked with leading the firms integration of digital assets with traditional investment porfolios. The firm is interested in exploring how digital assets fit it into its traditional investment stragegy for Conservative, Moderate, & Agressive pofilios. Our task is to recommend which & how much Digital Asset should be paied with each traditional porfolio risk profile. Then based on Market data in the state recommend Markets to which these porfolios can be targeted too. 
 
 For this Analysis we will need to answer: 
-1. Analyze the results of the last 5 years for a traditonal Conservative, Moderate, & Agressive Porfolio for a baseline. 
-2. Analyse the risk profile of Bitcoin & Eethereum: How do Ethereum and Bitcoin compare with the broader market, as represented by S&P500 Index?
-3. Recomend how much of each Digital Assets should be combined with each Traditonal profilio & anlayze the outcome 
-4. Anlayze Pennsylvania Census Data to recommend markets for each Porfolio 
+
+1. Analyse the risk profile of Bitcoin & Eethereum: How do Ethereum and Bitcoin compare with the broader market, as represented by S&P500 Index?
+2.Analyze the results of the last 5 years for a traditonal Conservative, Moderate, & Agressive Porfolio for a baseline. 
+4. Recomend how much of each Digital Assets should be combined with each Traditonal profilio & anlayze the outcome 
+5. Anlayze Pennsylvania Census Data to recommend markets for each Porfolio 
 
 ---
 
 ## Data Sources 
-Data for this presentaion was found in three parts: 
+Data for this analysis was found in three parts: 
 1. We research the make up of Traditional Pofolios & incorprated assets that fit the risk profolio of each profilio. 
 * Conservative includes: BIV, BSV, VB, VV, VXUS
 * Moderate & Agressive include: BND, VB, VV, VWO, VXUS
 
-(Data Soruce API)
+(Data Soruce API saved as csv)
 
 2. Bitcoin & Eethereum choosen for thier breath of data & Name recongnition to novice digital investors 
 
