@@ -1,7 +1,5 @@
 ## Project Overview 
-
 ---
-
 ## Introduction
 ### Our Task 
 
