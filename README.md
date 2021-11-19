@@ -64,7 +64,7 @@ Location: Crypto_Analysis.ipynb
 12. Analysis of outcomes 
 ![Adnan results](Adnantable.jpeg)
 
-#### Part 2. Anlysis of Traditional Pofolios 
+### Part 2. Anlysis of Traditional Pofolios 
 Location: project_1_all_portfolios.ipynb
 1. Import  Libraries & Depencencies, Load .env variables, Set alpaca key and Secret key
 2. Set weigths of a Conservative Moderate & Aggresive porfolios 
@@ -86,7 +86,7 @@ Location: project_1_all_portfolios.ipynb
 ![ARG por](Aggressiveporfolioreturns.jpeg)
 7. Calulate Porfolio Betas & Sharpe Ratios 
 8. Summarize Benchmark Statistics 
-## Part 3. Anlysis of Combined Porfolios
+### Part 3. Anlysis of Combined Porfolios
 Location: project_1_all_portfolios.ipynb
 1. From the end of the analysis in PArt 1 Combine data gathered for digital assets in part 2 with the porfolios in part 1. 
 * Set Porfolio weights 
@@ -115,7 +115,7 @@ Location: project_1_all_portfolios.ipynb
 9. Find Beta and Sharpe Ratios for all portfolios
 ![Mike Table](Miketable.jpeg)
 
-## Part 4. Anlysis of PA Household Income Data
+### Part 4. Anlysis of PA Household Income Data
 Location: PA Household Income by City.ipynb
 1. Import  Libraries & Depencencies, Load .env variables, Set alpaca key and Secret key
 2. Loadin in Census Data sourced from Kaggle 
