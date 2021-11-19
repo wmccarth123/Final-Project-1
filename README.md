@@ -11,8 +11,8 @@ For this Analysis we will need to answer:
 
 1. Analyse the risk profile of Bitcoin & Eethereum: How do Ethereum and Bitcoin compare with the broader market, as represented by S&P500 Index?
 2.Analyze the results of the last 5 years for a traditonal Conservative, Moderate, & Agressive Porfolio for a baseline. 
-4. Recomend how much of each Digital Assets should be combined with each Traditonal profilio & anlayze the outcome 
-5. Anlayze Pennsylvania Census Data to recommend markets for each Porfolio 
+3. Recomend how much of each Digital Assets should be combined with each Traditonal profilio & anlayze the outcome 
+4. Anlayze Pennsylvania Census Data to recommend markets for each Porfolio 
 
 ---
 
