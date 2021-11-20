@@ -33,7 +33,7 @@ Data for this analysis was found in three parts:
 ## Data Analysis
 
 ### Part 1. Analysis of the risk profiles of Bitcoin & Eethereum. 
-Location: Crypto_Analysis.ipynb
+Location: Crypto_Analysis_final.ipynb
 1. Import  Libraries & Depencencies 
 2. Read and Process Bitcoin, Eethereum, & SPY Data. Steps include: Setting the path, sorting the index, organizing close prices by date, preparing multi level index as input to Monte Carlo Anlaysis funcitons
 3. Calculate & Plot Daily Returns for each (Line Chats)
@@ -63,6 +63,7 @@ Location: Crypto_Analysis.ipynb
 ![10k 1 yr returns BTC](10KSimulatedReturnsBTC.jpeg)
 12. Analysis of outcomes 
 ![Adnan results](Adnantable.jpeg)
+13. Panel Outcomes
 
 ### Part 2. Anlysis of Traditional Pofolios 
 Location: project_1_all_portfolios.ipynb
