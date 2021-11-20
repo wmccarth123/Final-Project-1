@@ -8,8 +8,8 @@ We are a new new business group at a Pennsylvania Asset Management firm tasked w
 Questions / Issues to Answer or Analyze: 
 
 1. Analyze the risk profile of Bitcoin & Ethereum can compare with broader market as represented by SPY ETF (S&P 500).
-2. Analyze historical data of the last 5 years for a traditonal Conservative, Moderate, & Agressive Porfolio for a baseline.
-3. Consider combination of Digital / Crypto Assets with Traditonal ETFs or Mutual Funds & anlayze the risk / return of blended portfolios.
+2. Analyze historical data of the last 5 years for a traditional Conservative, Moderate, & Agressive Porfolio for a baseline.
+3. Consider combination of Digital / Crypto Assets with Traditional ETFs or Mutual Funds & anlayze the risk / return of blended portfolios.
 4. Analyze Pennsylvania Census Data to consider marketing plan for potential blended funds (mutual funds + digital assets).
 
 ---
