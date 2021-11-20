@@ -3,14 +3,14 @@
 ## Introduction
 ### Our Task 
 
-We are a new new business group at a Pennsylvania Asset Management firm tasked with leading the firms integration effort of digital assets with traditional investment porfolios. The firm is interested in exploring risk profile of digital assets and how they may be combined with traditional investment portfolios for investors with Conservative, Moderate, & Agressive risk appetite. Our task is to compare the risk profile of Digital Asset with Traditional Asset (ETFs, Mutual Funds) and recommend combination of the asset types for investor interested in a exposure to this 'new' asset class. Then gather demographic data (such as Avg income) in the state, to consider a marketing strategy for potential new funds. 
+We are a new new business group at a Pennsylvania Asset Management firm tasked with leading the firms integration effort of digital assets with traditional investment porfolios. The firm is interested in exploring risk profile of digital assets and how they may be combined with traditional investment portfolios for investors with Conservative, Moderate, & Agressive risk appetite. Our task is to compare the risk profile of Digital Asset with Traditional Asset (ETFs, Mutual Funds) and recommend combination of the asset types for investor interested in a exposure to this 'relatively new' asset class. Then gather demographic data (such as Avg income) in the state, to consider a marketing strategy for potential new funds. 
 
 Questions / Issues to Answer or Analyze: 
 
 1. Analyze the risk profile of Bitcoin & Ethereum can compare with broader market as represented by SPY ETF (S&P 500).
 2. Analyze historical data of the last 5 years for a traditonal Conservative, Moderate, & Agressive Porfolio for a baseline.
 3. Consider combination of Digital / Crypto Assets with Traditonal ETFs or Mutual Funds & anlayze the risk / return of blended portfolios.
-4. Anlayze Pennsylvania Census Data to consider marketing plan for potential blended funds (mutual funds + digital assets).
+4. Analyze Pennsylvania Census Data to consider marketing plan for potential blended funds (mutual funds + digital assets).
 
 ---
 
